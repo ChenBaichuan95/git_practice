@@ -1,9 +1,0 @@
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\bin\Release\GoogleHeightMap.exe.config
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\bin\Release\GoogleHeightMap.exe
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\bin\Release\GoogleHeightMap.pdb
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\bin\Release\DotSpatial.Projections.dll
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\bin\Release\DotSpatial.Projections.xml
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\obj\Release\GoogleHeightMap.csproj.CoreCompileInputs.cache
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\obj\Release\GoogleHeightMap.csproj.CopyComplete
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\obj\Release\GoogleHeightMap.exe
-C:\Users\gskdell06\source\repos\GoogleHeightMap\GoogleHeightMap\obj\Release\GoogleHeightMap.pdb
